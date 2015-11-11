@@ -18,6 +18,24 @@ namespace Notes\Domain\Entity\UserGroup;
 
 interface UserGroupInterface
 {
+    /**
+     * @return string
+     */
     public function getName();
+
+    /**
+     * @return array
+     */
     public function getUsers();
+
+    /**
+     * @param User $user
+     * @return mixed
+     */
+    public function addUser(User $user);
+
+    /**
+     * @return bool
+     */
+    public function removeUser();
 }
