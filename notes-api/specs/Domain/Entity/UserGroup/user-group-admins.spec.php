@@ -1,6 +1,6 @@
 <?php
 /**
- * File name: user-group-admin.spec.php
+ * File name: user-group-admins.spec.php
  * Project: notes-api
  * PHP version 5
  * @category  PHP

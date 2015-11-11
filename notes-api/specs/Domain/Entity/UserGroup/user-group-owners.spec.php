@@ -1,6 +1,6 @@
 <?php
 /**
- * File name: user-group-owner.spec.php
+ * File name: user-group-owners.spec.php
  * Project: notes-api
  * PHP version 5
  * @category  PHP
